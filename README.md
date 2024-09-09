@@ -1,4 +1,4 @@
-##  **Busca Rápida e Divertida de Atletas!** 
+##  **Busca Rápida e Divertida de Atletas - Imersão Dev com Google Gemini!** 
 
 **O que essa aplicação faz?**
 
